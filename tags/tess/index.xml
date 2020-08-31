@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TESS on Alexander Evitt</title>
+    <link>https://alexanderevitt.github.io/tags/tess/</link>
+    <description>Recent content in TESS on Alexander Evitt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Aug 2020 11:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://alexanderevitt.github.io/tags/tess/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>QuasVar - Quasar Variability Study</title>
+      <link>https://alexanderevitt.github.io/post/chapter-1/</link>
+      <pubDate>Sun, 30 Aug 2020 11:00:00 -0400</pubDate>
+      
+      <guid>https://alexanderevitt.github.io/post/chapter-1/</guid>
+      <description>Active galactic nuclei (AGN) are the extremely luminous, supermassive black holes (SMBH) at the core of some galaxies. Active galaxies and their nuclei are classified as being active because of their extreme radiative power; however, there are many galaxies that fit under this category and they seem to be extremely varied with few similarities beyond their unbelievable luminosity. Because this class of objects is so varied, astronomers have been attempting to build a model that explains their inner structure and differences for decades.</description>
+    </item>
+    
+  </channel>
+</rss>

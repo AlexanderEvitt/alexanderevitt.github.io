@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SDSS on Alexander Evitt</title>
+    <link>https://alexanderevitt.github.io/tags/sdss/</link>
+    <description>Recent content in SDSS on Alexander Evitt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Apr 2020 11:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://alexanderevitt.github.io/tags/sdss/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sloan Digital Sky Survey Imaging</title>
+      <link>https://alexanderevitt.github.io/post/chapter-2/</link>
+      <pubDate>Wed, 15 Apr 2020 11:00:00 -0400</pubDate>
+      
+      <guid>https://alexanderevitt.github.io/post/chapter-2/</guid>
+      <description>This project is an offshoot of my main project, QuasVar, that produces beautiful astronomical images through the Sloan Digital Sky Survey Dataset. Admittedly, very little processing is needed, as SDSS handles most of its data beautifully. All I did was pull images of objects in different bands, align them, and combine them in RGB to make color images. SDSS has five bands, u, g, r, i, and z, which represent ultraviolet, red, green, infrared, and far-infrared.</description>
+    </item>
+    
+  </channel>
+</rss>

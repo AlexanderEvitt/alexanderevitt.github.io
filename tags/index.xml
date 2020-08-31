@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Alexander Evitt</title>
+    <link>https://alexanderevitt.github.io/tags/</link>
+    <description>Recent content in Tags on Alexander Evitt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Aug 2020 11:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://alexanderevitt.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>astrophysics</title>
+      <link>https://alexanderevitt.github.io/tags/astrophysics/</link>
+      <pubDate>Sun, 30 Aug 2020 11:00:00 -0400</pubDate>
+      
+      <guid>https://alexanderevitt.github.io/tags/astrophysics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>research</title>
+      <link>https://alexanderevitt.github.io/tags/research/</link>
+      <pubDate>Sun, 30 Aug 2020 11:00:00 -0400</pubDate>
+      
+      <guid>https://alexanderevitt.github.io/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TESS</title>
+      <link>https://alexanderevitt.github.io/tags/tess/</link>
+      <pubDate>Sun, 30 Aug 2020 11:00:00 -0400</pubDate>
+      
+      <guid>https://alexanderevitt.github.io/tags/tess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>imaging</title>
+      <link>https://alexanderevitt.github.io/tags/imaging/</link>
+      <pubDate>Wed, 15 Apr 2020 11:00:00 -0400</pubDate>
+      
+      <guid>https://alexanderevitt.github.io/tags/imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SDSS</title>
+      <link>https://alexanderevitt.github.io/tags/sdss/</link>
+      <pubDate>Wed, 15 Apr 2020 11:00:00 -0400</pubDate>
+      
+      <guid>https://alexanderevitt.github.io/tags/sdss/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
