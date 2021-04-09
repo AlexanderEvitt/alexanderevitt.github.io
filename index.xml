@@ -6,10 +6,19 @@
     <description>Recent content on Alexander Evitt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Aug 2020 11:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 08 Apr 2021 11:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://alexanderevitt.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Comet Identification Project</title>
+      <link>https://alexanderevitt.github.io/post/chapter-3/</link>
+      <pubDate>Thu, 08 Apr 2021 11:00:00 -0400</pubDate>
+      
+      <guid>https://alexanderevitt.github.io/post/chapter-3/</guid>
+      <description>In collecting large amounts of images of the sky using the Transiting Exoplanet Survey Satellite (TESS), it was inevitable that some interesting objects would be observed. Most of these were eclipsing binary stars or Cepheid variable stars. In one case, however, I observed what I believe to be a comet, specifically C/2018 N2 (ASASSN), streaking through the frame of the camera. I was writing code that strung together full-frame images (FFIs) into videos and noticed that one of the sectors had an odd point of light streaking across the detector.</description>
+    </item>
     
     <item>
       <title>QuasVar - Quasar Variability Study</title>

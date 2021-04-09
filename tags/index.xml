@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Alexander Evitt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Aug 2020 11:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 08 Apr 2021 11:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://alexanderevitt.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>imaging</title>
+      <link>https://alexanderevitt.github.io/tags/imaging/</link>
+      <pubDate>Thu, 08 Apr 2021 11:00:00 -0400</pubDate>
+      
+      <guid>https://alexanderevitt.github.io/tags/imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SDSS</title>
+      <link>https://alexanderevitt.github.io/tags/sdss/</link>
+      <pubDate>Thu, 08 Apr 2021 11:00:00 -0400</pubDate>
+      
+      <guid>https://alexanderevitt.github.io/tags/sdss/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>astrophysics</title>
@@ -35,24 +53,6 @@
       <pubDate>Sun, 30 Aug 2020 11:00:00 -0400</pubDate>
       
       <guid>https://alexanderevitt.github.io/tags/tess/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>imaging</title>
-      <link>https://alexanderevitt.github.io/tags/imaging/</link>
-      <pubDate>Wed, 15 Apr 2020 11:00:00 -0400</pubDate>
-      
-      <guid>https://alexanderevitt.github.io/tags/imaging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SDSS</title>
-      <link>https://alexanderevitt.github.io/tags/sdss/</link>
-      <pubDate>Wed, 15 Apr 2020 11:00:00 -0400</pubDate>
-      
-      <guid>https://alexanderevitt.github.io/tags/sdss/</guid>
       <description></description>
     </item>
     
