@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TESS on Alexander Evitt</title>
-    <link>https://alexanderevitt.github.io/tags/tess/</link>
-    <description>Recent content in TESS on Alexander Evitt</description>
+    <title>MPC on Alexander Evitt</title>
+    <link>https://alexanderevitt.github.io/tags/mpc/</link>
+    <description>Recent content in MPC on Alexander Evitt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Apr 2021 11:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://alexanderevitt.github.io/tags/tess/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexanderevitt.github.io/tags/mpc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://alexanderevitt.github.io/post/chapter-3/</guid>
       <description>In collecting large amounts of images of the sky using the Transiting Exoplanet Survey Satellite (TESS), it was inevitable that some interesting objects would be observed. Most of these were eclipsing binary stars or Cepheid variable stars. In one case, however, I observed what I believe to be a comet, specifically C/2018 N2 (ASASSN), streaking through the frame of the camera. I was writing code that strung together full-frame images (FFIs) into videos and noticed that one of the sectors had an odd point of light streaking across the detector.</description>
-    </item>
-    
-    <item>
-      <title>QuasVar - Quasar Variability Study</title>
-      <link>https://alexanderevitt.github.io/post/chapter-1/</link>
-      <pubDate>Sun, 30 Aug 2020 11:00:00 -0400</pubDate>
-      
-      <guid>https://alexanderevitt.github.io/post/chapter-1/</guid>
-      <description>Active galactic nuclei (AGN) are the extremely luminous, supermassive black holes (SMBH) at the core of some galaxies. Active galaxies and their nuclei are classified as being active because of their extreme radiative power; however, there are many galaxies that fit under this category and they seem to be extremely varied with few similarities beyond their unbelievable luminosity. Because this class of objects is so varied, astronomers have been attempting to build a model that explains their inner structure and differences for decades.</description>
     </item>
     
   </channel>
